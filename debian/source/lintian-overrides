@@ -1,1 +1,1 @@
-hiredis source: debian-watch-does-not-check-gpg-signature
+hiredis source: debian-watch-does-not-check-openpgp-signature
