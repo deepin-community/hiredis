@@ -1,8 +1,4 @@
 01_use-proper-destdir.patch
 02_disable-failing-test.patch
-04_disable-network-tests.patch
-06_redis-startup.patch
 07_cmake.patch
-08_cppflags.patch
-09_CVE-2021-32765.patch
-10-Update-test-for-Redis-7.x.patch
+03-Disable-a-test-that-fails-under-Redis-7.x.patch
